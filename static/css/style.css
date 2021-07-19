@@ -513,8 +513,8 @@ a.article-title:hover,
 .article-entry blockquote {
   font-family: 'Malgun Gothic', '맑은 고딕', 'PT Serif', 'STZhongsong', '华文中宋', 'Microsoft Yahei', serif;
   font-size: 1em;
-  background: #fffbc9
-  border-left: 10px solid #ffdc40
+  background: #fffbc9;
+  border-left: 10px solid #ffdc40;
   margin: 0px;
   padding: 0.5em 10px;
 }
