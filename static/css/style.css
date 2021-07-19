@@ -515,8 +515,9 @@ a.article-title:hover,
   font-size: 1em;
   background: #fffbc9;
   border-left: 10px solid #ffdc40;
-  margin: 0px;
-  padding: 0.5em 10px;
+  border-radius: .3rem;
+  margin: 30px;
+  padding: 0.5em 20px;
 }
 .article-entry blockquote footer {
   font-size: 16px;
